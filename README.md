@@ -10,7 +10,7 @@ do curso Versionamento de código com git e github de [Digital Innovation Dio] (
 
 ## Resumos das aulas
 
-|Aulas | Resumos |
+|Aulas | Resumo |
 | -----| ------- |
 
 ## Referências
