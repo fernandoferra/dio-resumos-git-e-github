@@ -11,6 +11,8 @@ do curso Versionamento de código com git e github de [Digital Innovation Dio] (
 ## Resumos das aulas
 
 |Aulas | Resumo |
-| -----| ------- |
+| -----| -------|
+|gravando alterações aula 01|
+|gravando alterações aula 02|
 
 ## Referências
